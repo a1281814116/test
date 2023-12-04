@@ -1,7 +1,7 @@
-# ubuntu20.04，如何将git与自己的邮箱绑定
+# ubuntu20.04，如何将git与自己的邮箱绑定(修改)
 
 STEP1: 安装git
-   
+
     sudo apt install git
 
 STEP2: 获取SSH KEY
